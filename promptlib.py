@@ -1,17 +1,24 @@
 import random as r
 import string
+import constants as c
 
-system_prompt =  "You determine whether random strings satisfy a special property."
+system_prompt =  "You determine whether the strings given to you satisfy a special property. You output True if the property is satisfied, and False if it is not." 
+correct_prompt = "Yes, that's correct. Now please describe the special property in your own words."
 
-def make_alphabet_word():
+###
+# Alphabet task: 
+# Over the space of random strings of lowercase letters, 
+# Some have their letters in alphabetical order. Those have the True label.
+###
+
+def make_alphabet_word(p=c.ALPHABET_P):
     out = str()
     for c in string.ascii_lowercase:
-        if r.random() < 0.3:
+        if r.random() < p:
             out += c
     return out
 
-
-def make_alphabet_mixed_sequence(n=10):
+def make_alphabet_mixed_sequence(n=c.ALPHABET_N):
     ls_ordered = list()
     ls_random = list()
 
@@ -29,3 +36,84 @@ def make_alphabet_mixed_sequence(n=10):
     r.shuffle(ls_out)
 
     return ls_out
+
+
+###
+# Digits task: 
+# Over the space of random strings of number characters, 
+# Some have them sorted by numerical order. Those have the True label.
+###
+
+def make_digits_word(p=c.DIGITS_P):
+    out = str()
+    for c in string.digits:
+        if r.random() < p:
+            out += c
+    return out
+
+def make_digits_mixed_sequence(n=c.DIGITS_N):
+    ls_ordered = list()
+    ls_random = list()
+
+    for a in range(n):
+
+        out_ordered = make_digits_word()
+        out_random = str()
+        for _ in range(len(out_ordered)):
+            out_random += r.choice(string.digits)
+
+        ls_ordered.append([out_ordered, "True"])
+        ls_random.append([out_random, "False"])
+
+    ls_out = (ls_ordered + ls_random)
+    r.shuffle(ls_out)
+
+    return ls_out
+
+
+###
+# Alphabet-words task:
+# Over the space of random sequences of lowercase english words,
+# Some of them are ordered alphabetically. Those have the True label.
+# words taken from https://www.mit.edu/~ecprice/wordlist.10000 credit: Eric Price
+# curated manually to remove porn terms, stray letters, abbreviations and even some spanish words.
+# about 1000 words removed.
+###
+
+def make_alphabet_words_sentence(word_list, p=c.ALPHABET_WORDS_P):
+    out = str()
+    for w in word_list:
+        if r.random() < p:
+            out += w + " "
+    out = out[:-1]
+    return out
+
+def make_alphabet_words_mixed_sequence(n=c.ALPHABET_WORDS_N):
+    with open("data/words_10000.txt") as f:
+        word_list = [word.strip("\n") for word in f.readlines()]
+    ls_ordered = list()
+    ls_random = list()
+
+    for a in range(n):
+
+        out_ordered = make_alphabet_words_sentence(word_list)
+        out_random = str()
+        for _ in range(len(out_ordered)):
+            out_random += r.choice(word_list) + " "
+        out_random = out_random[:-1]
+
+        ls_ordered.append([out_ordered, "True"])
+        ls_random.append([out_random, "False"])
+
+    ls_out = (ls_ordered + ls_random)
+    r.shuffle(ls_out)
+
+    return ls_out
+
+
+###
+# Spanish-gender task:
+# Nouns in Spanish are grammatically either masculine or feminine.
+# Over the space of random sequences of spanish words nouns,
+# Some of them have more than 80% of their nouns being feminine. Those have the True label.
+###
