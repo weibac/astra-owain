@@ -1,0 +1,3000 @@
+Input: ehijkmpqrtuwxyz
+Label: True
+
+Input: pepwlutydn
+Label: False
+
+Input: jcpqfggwmfezhw
+Label: False
+
+Input: gesraroic
+Label: False
+
+Input: cgijkprux
+Label: True
+
+Input: hpysnqfakajrrrr
+Label: False
+
+Input: abefghijnoqtwyz
+Label: True
+
+Input: puzevhfsrofk
+Label: False
+
+Input: dwfvbfngtjjva
+Label: False
+
+Input: irglddyhgllmtf
+Label: False
+
+Input: abefgjoqrw
+Label: True
+
+Input: lyyzqoqnyuqj
+Label: False
+
+Input: abdefgiklrswx
+Label: True
+
+Input: zaahveknzwitbmmuzz
+Label: False
+
+Input: cjnopqrxyz
+Label: True
+
+Input: ampsnsfjtuy
+Label: False
+
+Input: bdfhknp
+Label: True
+
+Input: xnxhzlcvgtby
+Label: False
+
+Input: abcdefhijlpruwx
+Label: True
+
+Input: abdefhijklrstwxz
+Label: True
+
+Input: nwglagfdvrhnel
+Label: False
+
+Input: abehiorsyz
+Label: True
+
+Input: ntzllyiuenaph
+Label: False
+
+Input: oknwfstwvniklsao
+Label: False
+
+Input: rduwneealif
+Label: False
+
+Input: hnepldkqjmkh
+Label: False
+
+Input: adikmnxz
+Label: True
+
+Input: egjftztwtzrpj
+Label: False
+
+Input: acdefhijklnqux
+Label: True
+
+Input: adeghkmnortvw
+Label: True
+
+Input: tfdyierdkwlcirzjwmt
+Label: False
+
+Input: dfghilopqtvwxy
+Label: True
+
+Input: jlphvxzuagmc
+Label: False
+
+Input: bfgijmnortwx
+Label: True
+
+Input: bcjklmpsxz
+Label: True
+
+Input: cehjkloqrsuwyz
+Label: True
+
+Input: ybnjztnvxyl
+Label: False
+
+Input: ezuhi
+Label: False
+
+Input: bcfghimnprtuz
+Label: True
+
+Input: cfglmoprsuvxyz
+Label: True
+
+Input: cdelnprvxy
+Label: True
+
+Input: acghijklmpqz
+Label: True
+
+Input: deglopquwxyz
+Label: True
+
+Input: krmbzsattvq
+Label: False
+
+Input: adefgjkmnorw
+Label: True
+
+Input: abcghknpswy
+Label: True
+
+Input: ggcbwijbqmoeykhho
+Label: False
+
+Input: cwwewzoipdks
+Label: False
+
+Input: eqxquagfeb
+Label: False
+
+Input: fhikorv
+Label: True
+
+Input: ujzdqgezoiuwfx
+Label: False
+
+Input: abdgimopqrsv
+Label: True
+
+Input: zpkwmxszakiknf
+Label: False
+
+Input: defjlrvz
+Label: True
+
+Input: tofgwoymqjhgscx
+Label: False
+
+Input: adhijlnortuvx
+Label: True
+
+Input: behlmrsvxy
+Label: True
+
+Input: lxsgixxawmhkw
+Label: False
+
+Input: bfginoquwyz
+Label: True
+
+Input: kkqkaowhfnzkj
+Label: False
+
+Input: cdeiklmoqtuwxz
+Label: True
+
+Input: thzojomhykrev
+Label: False
+
+Input: aghjklpqsvw
+Label: True
+
+Input: ozwwgcxqaoab
+Label: False
+
+Input: kwivilqttiv
+Label: False
+
+Input: achiklmnqrswxy
+Label: True
+
+Input: bcdefijnopqstwx
+Label: True
+
+Input: khroisoqdxvj
+Label: False
+
+Input: uognujuks
+Label: False
+
+Input: bdhgsatwl
+Label: False
+
+Input: rciwjunahpitsepu
+Label: False
+
+Input: pmhvrmnzi
+Label: False
+
+Input: kabrpmvtekg
+Label: False
+
+Input: nyjlawfilnd
+Label: False
+
+Input: ijvtrqrbxhwlexfk
+Label: False
+
+Input: odbrwiuhdtskqd
+Label: False
+
+Input: afhiklmnoqsvw
+Label: True
+
+Input: svinbzpxskoj
+Label: False
+
+Input: wclsosigfjwoas
+Label: False
+
+Input: uhckfaxsuzklhvoqyxiq
+Label: False
+
+Input: abcghlnpuvz
+Label: True
+
+Input: eatzosmv
+Label: False
+
+Input: bcdefghikprtuvz
+Label: True
+
+Input: hreopjaanqusot
+Label: False
+
+Input: xdjhcexzqeahex
+Label: False
+
+Input: mvcxvgbxbeofott
+Label: False
+
+Input: rssvpnneub
+Label: False
+
+Input: pwbhdfkabgbqwuqduesw
+Label: False
+
+Input: adghjmqrwx
+Label: True
+
+Input: hutjpfignvyml
+Label: False
+
+Input: rippwasnmmwvbx
+Label: False
+
+Input: acefghjklmnoprsvx
+Label: True
+
+Input: bgjklmnoprwz
+Label: True
+
+Input: sjnsvtnlgruzz
+Label: False
+
+Input: befgnpsuz
+Label: True
+
+Input: defhjklmopqruvxz
+Label: True
+
+Input: abcdeginqtvwx
+Label: True
+
+Input: mqmvfprezhpr
+Label: False
+
+Input: efiklmorvxz
+Label: True
+
+Input: abdejkloprtuwxy
+Label: True
+
+Input: lobgrbgphy
+Label: False
+
+Input: cdeghijmprsvxy
+Label: True
+
+Input: ifvzfjttqivfhnqfwm
+Label: False
+
+Input: qpuvfbodmavmqj
+Label: False
+
+Input: abceijkpqsuyz
+Label: True
+
+Input: bcdiq
+Label: True
+
+Input: zplkllvqiikbkznhwi
+Label: False
+
+Input: bdglmnoqtxyz
+Label: True
+
+Input: jnfxqpuubdn
+Label: False
+
+Input: adfklmnoptxz
+Label: True
+
+Input: havcmgciznult
+Label: False
+
+Input: zkuizlhajvylqdtvh
+Label: False
+
+Input: seypehakbaor
+Label: False
+
+Input: deokgedldyngdepa
+Label: False
+
+Input: wvecikkpjhuexzmp
+Label: False
+
+Input: behmnopqruwyz
+Label: True
+
+Input: defghikmnrsxz
+Label: True
+
+Input: kcobmxqueyfpkr
+Label: False
+
+Input: perkxaievjzqujq
+Label: False
+
+Input: abcghjklopqtv
+Label: True
+
+Input: urfrpnhrtxs
+Label: False
+
+Input: cdefijkloprst
+Label: True
+
+Input: ykqfmiklqlbm
+Label: False
+
+Input: dfhijklmnprvwxz
+Label: True
+
+Input: abefgilmopqrtvxy
+Label: True
+
+Input: bcdimnpqtuvwx
+Label: True
+
+Input: zeqlgvqmafvnexy
+Label: False
+
+Input: bcdefghijmnuwxy
+Label: True
+
+Input: aeghilmopstuvwxz
+Label: True
+
+Input: vsrfhauz
+Label: False
+
+Input: oxiugxkzocmtbgc
+Label: False
+
+Input: hznkfkflyjhfaz
+Label: False
+
+Input: acefilopstuvwxz
+Label: True
+
+Input: rhanbxtccxato
+Label: False
+
+Input: xcdiyuggiyr
+Label: False
+
+Input: fcbsmmsccbipvciewki
+Label: False
+
+Input: tjlwgdqfipexz
+Label: False
+
+Input: cdeijloprvx
+Label: True
+
+Input: abcdfghimnprstuvwxy
+Label: True
+
+Input: agiqtw
+Label: True
+
+Input: ornzxgstjtwv
+Label: False
+
+Input: acdfgiklrsuwxy
+Label: True
+
+Input: qfyavtqtoblf
+Label: False
+
+Input: aefgijlmoqstxy
+Label: True
+
+Input: acfhimorstuvwy
+Label: True
+
+Input: swcevuyhlaw
+Label: False
+
+Input: muqhlfsenz
+Label: False
+
+Input: abdmnopqstwyz
+Label: True
+
+Input: ciklnpvwx
+Label: True
+
+Input: afikmnoqstz
+Label: True
+
+Input: abcehkoprtvw
+Label: True
+
+Input: urdbojwzmzgnuch
+Label: False
+
+Input: abcdefhkmpwxy
+Label: True
+
+Input: abfghiklnpqrtuwxy
+Label: True
+
+Input: bfhklmpqrsuxyz
+Label: True
+
+Input: abchikmnoqrvxy
+Label: True
+
+Input: dfhjklmnoprstuz
+Label: True
+
+Input: hgwbfzdqr
+Label: False
+
+Input: nrlkdtknwgtrrupp
+Label: False
+
+Input: xvixrjogbrodc
+Label: False
+
+Input: bcdefgijmnouvwz
+Label: True
+
+Input: xeqjpdvwbyq
+Label: False
+
+Input: bcdfhijlmnopqtvwxy
+Label: True
+
+Input: abfijlmopruw
+Label: True
+
+Input: zbtueqvigfhc
+Label: False
+
+Input: acdefgilmnqrsu
+Label: True
+
+Input: acfiklmoqtvxz
+Label: True
+
+Input: aachsaoynzmviqt
+Label: False
+
+Input: mlefmghnwws
+Label: False
+
+Input: vhqomzoyzswxsxt
+Label: False
+
+Input: abdfhijkmpquvwy
+Label: True
+
+Input: qpyoxmjtpprww
+Label: False
+
+Input: chjmostvxz
+Label: True
+
+Input: vrlknptyzznnz
+Label: False
+
+Input: cejlmnopruvxy
+Label: True
+
+Input: bcdefhjklqsvxz
+Label: True
+
+Input: aijknprstxy
+Label: True
+
+Input: uliyfdhvhtdhaj
+Label: False
+
+Input: bdjklnqrxyz
+Label: True
+
+Input: maabckotcudgde
+Label: False
+
+Input: afglnqw
+Label: True
+
+Input: yvlizpqpqesgluci
+Label: False
+
+Input: acdijklnprsuvx
+Label: True
+
+Input: tizgbdsvmkacdfg
+Label: False
+
+Input: abcdefgijklmoqrsuvwxz
+Label: True
+
+Input: bdfjkmnqsxz
+Label: True
+
+Input: fqlvclxivfiacr
+Label: False
+
+Input: abcdhijlmnprtuvyz
+Label: True
+
+Input: snifgrklrbmf
+Label: False
+
+Input: gsmyjzfl
+Label: False
+
+Input: bghijmostvw
+Label: True
+
+Input: adefghijklmpsxyz
+Label: True
+
+Input: acdgkmprsuy
+Label: True
+
+Input: pgcrrbtoylwmgmuap
+Label: False
+
+Input: acdefiklnpqv
+Label: True
+
+Input: gvmlpvxazcyeti
+Label: False
+
+Input: rfeuwqqhidhuq
+Label: False
+
+Input: ekueanccpkzdm
+Label: False
+
+Input: qrlnecprvcfa
+Label: False
+
+Input: uqwpdowfbzds
+Label: False
+
+Input: fzwjizcxprba
+Label: False
+
+Input: abefgijpqrtuvxyz
+Label: True
+
+Input: kadhmejezozek
+Label: False
+
+Input: lrpudogjzxymcoq
+Label: False
+
+Input: vuqvzzleghgngmba
+Label: False
+
+Input: afghijlpqrstuwy
+Label: True
+
+Input: tcjsgubzhmxkyk
+Label: False
+
+Input: acdehjklnptuz
+Label: True
+
+Input: bcefgjklnprswx
+Label: True
+
+Input: pmbvsztcmizmmx
+Label: False
+
+Input: cefijklmnpqtvz
+Label: True
+
+Input: qpaatljgwhhdnrz
+Label: False
+
+Input: fivfmyqacderz
+Label: False
+
+Input: mqntjfyyyuwusmuj
+Label: False
+
+Input: acdghijkmnoptvwx
+Label: True
+
+Input: adefghiklmnopqrtuwyz
+Label: True
+
+Input: acdfhimpqruvxy
+Label: True
+
+Input: hfeoixrxvwf
+Label: False
+
+Input: bcklmqtz
+Label: True
+
+Input: jmkekqmemtnqw
+Label: False
+
+Input: cdfhjkpqrtu
+Label: True
+
+Input: abdgijopsuwxy
+Label: True
+
+Input: easahrazuomu
+Label: False
+
+Input: jwxkejxqhyvfcdtjrnn
+Label: False
+
+Input: cgimorstx
+Label: True
+
+Input: qauywpusdehq
+Label: False
+
+Input: abefghiklmqstvx
+Label: True
+
+Input: uheuqjgidvjo
+Label: False
+
+Input: acdghijmnoqrstuvwxz
+Label: True
+
+Input: bukfqwvfjcyo
+Label: False
+
+Input: cdeghjmpstyz
+Label: True
+
+Input: abcdefjmnopqstwxyz
+Label: True
+
+Input: byodnhozhzzyme
+Label: False
+
+Input: wbtomvqxszxj
+Label: False
+
+Input: smygayzzqdtfycw
+Label: False
+
+Input: abdefhijknpstuwy
+Label: True
+
+Input: abdehilopqrstuvxy
+Label: True
+
+Input: hnrylqapdlssvfemvkx
+Label: False
+
+Input: vuixczwouxwjwrm
+Label: False
+
+Input: gdmvcaddzufih
+Label: False
+
+Input: kgyurqloaf
+Label: False
+
+Input: wfujsmydafzc
+Label: False
+
+Input: adfgjoprsvy
+Label: True
+
+Input: bcefhiknstvxy
+Label: True
+
+Input: xpfajvyamuicms
+Label: False
+
+Input: acdfhilnoruvxyz
+Label: True
+
+Input: abdhijlmpqrxy
+Label: True
+
+Input: abchijlnoqruvwxyz
+Label: True
+
+Input: seqebyisxvrzb
+Label: False
+
+Input: abceghijklpqstxyz
+Label: True
+
+Input: adfgjknouvxy
+Label: True
+
+Input: ealmtnjyzhxefsm
+Label: False
+
+Input: tialwxxrrf
+Label: False
+
+Input: zopobddwohecai
+Label: False
+
+Input: aegjnorstvwxyz
+Label: True
+
+Input: dfghjkotw
+Label: True
+
+Input: abcdefgijklmnpqrtux
+Label: True
+
+Input: kytinda
+Label: False
+
+Input: xeawvehfwpsdjvecw
+Label: False
+
+Input: hbcotlmzekojpf
+Label: False
+
+Input: bcegjklnostuz
+Label: True
+
+Input: aefgiptuvz
+Label: True
+
+Input: abcefghiklnoptuy
+Label: True
+
+Input: vkvhcowmxsnd
+Label: False
+
+Input: ppydfxcqg
+Label: False
+
+Input: zbamxnfijfh
+Label: False
+
+Input: cdeghkmopqrstuwxyz
+Label: True
+
+Input: mlojqwtsqwslqhgttn
+Label: False
+
+Input: bcdefhjkmoqrtuy
+Label: True
+
+Input: efcnywkihcdoh
+Label: False
+
+Input: secrmpstgoxt
+Label: False
+
+Input: bcdfhjklmoswx
+Label: True
+
+Input: acdeghkoprstuwz
+Label: True
+
+Input: acefinoqstuv
+Label: True
+
+Input: acdfhjopqrwz
+Label: True
+
+Input: bcdghlopqrstuyz
+Label: True
+
+Input: abghimnpqtvy
+Label: True
+
+Input: zuwgtlffvnuphdh
+Label: False
+
+Input: alqjgrzcsfjprj
+Label: False
+
+Input: ipruwvyapklyunsjz
+Label: False
+
+Input: mccetwsapzy
+Label: False
+
+Input: adfghijklmopqrstvwy
+Label: True
+
+Input: dgilnprtuvw
+Label: True
+
+Input: abcfkmnopty
+Label: True
+
+Input: bcijmoptw
+Label: True
+
+Input: dgijlmnopsuvyz
+Label: True
+
+Input: xgrizmbpmajmckw
+Label: False
+
+Input: vadftkh
+Label: False
+
+Input: abcghjklnpqrstuwy
+Label: True
+
+Input: uyrxuwbypnpzbkst
+Label: False
+
+Input: cghiknptvwxy
+Label: True
+
+Input: ogkpvcqensyigbg
+Label: False
+
+Input: abceflnopqruz
+Label: True
+
+Input: dsbowee
+Label: False
+
+Input: csrjnrlfntspnxy
+Label: False
+
+Input: acdefgimopqsvwz
+Label: True
+
+Input: btjywgnuilevikas
+Label: False
+
+Input: ifayarnbpwva
+Label: False
+
+Input: dehipqsuwz
+Label: True
+
+Input: bceiknpqruyz
+Label: True
+
+Input: piummfocndbauille
+Label: False
+
+Input: athhyhcaqepiolh
+Label: False
+
+Input: cfghimopqtuw
+Label: True
+
+Input: ncmgnmxbdtujcgl
+Label: False
+
+Input: tbxyzmwm
+Label: False
+
+Input: qjlpvkzwabbk
+Label: False
+
+Input: ujllftzrgylv
+Label: False
+
+Input: bcfghjmorswxz
+Label: True
+
+Input: fhklmnouwy
+Label: True
+
+Input: defilnpqruwz
+Label: True
+
+Input: pdohbdjebbwamzc
+Label: False
+
+Input: abdefghjklmnopqrswy
+Label: True
+
+Input: cefghijkmoqrstv
+Label: True
+
+Input: zbqjwywxfgck
+Label: False
+
+Input: defgjorstuvxy
+Label: True
+
+Input: okjxgvmikfr
+Label: False
+
+Input: rnxtvskdhqc
+Label: False
+
+Input: cghklnpqtuwz
+Label: True
+
+Input: zeydausdxod
+Label: False
+
+Input: cfgjknruvy
+Label: True
+
+Input: yxditzaaivufvl
+Label: False
+
+Input: lttbheiabnhnifhdae
+Label: False
+
+Input: tnzbsudewcfutvf
+Label: False
+
+Input: bcdehiqrstvwy
+Label: True
+
+Input: bdgijknpqstvz
+Label: True
+
+Input: xwwhpqzabr
+Label: False
+
+Input: pgzlgleuczcr
+Label: False
+
+Input: ssnobfgedfhn
+Label: False
+
+Input: cdhjkmnoqrsuwz
+Label: True
+
+Input: adefijknpqruvwxy
+Label: True
+
+Input: acdeghjkmnopqrstxy
+Label: True
+
+Input: egybwfbcnciir
+Label: False
+
+Input: adehijklmnopqrtuxz
+Label: True
+
+Input: bdgjmqruvwz
+Label: True
+
+Input: wqelbofcdkzwqnp
+Label: False
+
+Input: qgklgckobvfwtsmdhkd
+Label: False
+
+Input: denqrtvw
+Label: True
+
+Input: bcdhjkmopquvx
+Label: True
+
+Input: adfijlnorstz
+Label: True
+
+Input: abdehijlmnopqtv
+Label: True
+
+Input: bejklouvw
+Label: True
+
+Input: vrtefjvgsn
+Label: False
+
+Input: pgdjfufdjm
+Label: False
+
+Input: aehijlmnstwxz
+Label: True
+
+Input: cdegiklrwz
+Label: True
+
+Input: cdfikoprstxy
+Label: True
+
+Input: wpijdvvxxzs
+Label: False
+
+Input: lpdgnoazxwrkovewb
+Label: False
+
+Input: mcgeshwwsfal
+Label: False
+
+Input: tgdetgihqok
+Label: False
+
+Input: aeghiknoqrsuvwxz
+Label: True
+
+Input: acfgijklmopstvwx
+Label: True
+
+Input: acfgijlnorsxyz
+Label: True
+
+Input: acdfgimopruvwx
+Label: True
+
+Input: abchijkqstwx
+Label: True
+
+Input: fvwvnmpcnzvlihsbfnthw
+Label: False
+
+Input: quhkhqgmvbqv
+Label: False
+
+Input: ykknxvfszphalsjjmnw
+Label: False
+
+Input: beghjklmruvw
+Label: True
+
+Input: gciqbhdne
+Label: False
+
+Input: aqoufddyyqkhn
+Label: False
+
+Input: qqecguqzbqgiu
+Label: False
+
+Input: bdilnpqrsuvwxz
+Label: True
+
+Input: kpjmjxvskgpwzsqh
+Label: False
+
+Input: cmfazhmyoedazwref
+Label: False
+
+Input: vwovrjyeuubcxp
+Label: False
+
+Input: yushdixtnn
+Label: False
+
+Input: behlmnopsyz
+Label: True
+
+Input: mhijxcqriyfya
+Label: False
+
+Input: kqrpolsoqkpouy
+Label: False
+
+Input: lnrpxwejxeobt
+Label: False
+
+Input: vpujeuemjcu
+Label: False
+
+Input: afghiklmpuwxy
+Label: True
+
+Input: ufaysn
+Label: False
+
+Input: abcefghjnopqrstvxz
+Label: True
+
+Input: qfdgkfsvwuddpaymr
+Label: False
+
+Input: befijkmnouvwxy
+Label: True
+
+Input: adegjklsuy
+Label: True
+
+Input: efhhhghgnwkgyz
+Label: False
+
+Input: hpwslqhtekxsx
+Label: False
+
+Input: byajvkzrpuubjjlh
+Label: False
+
+Input: iidmpivqghwcvajcy
+Label: False
+
+Input: citucoxmodrc
+Label: False
+
+Input: eymtmaxdczxgm
+Label: False
+
+Input: bfknqrtwxz
+Label: True
+
+Input: bcdefgoqrstvy
+Label: True
+
+Input: gwlolhhnf
+Label: False
+
+Input: cdefhkmrty
+Label: True
+
+Input: abdgklmpuvxz
+Label: True
+
+Input: abcefhjklmnoptvy
+Label: True
+
+Input: hijkltxyz
+Label: True
+
+Input: sftldylivuswsl
+Label: False
+
+Input: abdfhijopruyz
+Label: True
+
+Input: cgmnstvxz
+Label: True
+
+Input: bfgjkmnsuwx
+Label: True
+
+Input: yyaawcvrnnu
+Label: False
+
+Input: abehlmnpqrtvyz
+Label: True
+
+Input: dhkmnstuvwxy
+Label: True
+
+Input: hxayuuipkmdv
+Label: False
+
+Input: jowaobzswd
+Label: False
+
+Input: cdeghjlmnquwy
+Label: True
+
+Input: xqrnrdjyduuy
+Label: False
+
+Input: acdefhjlnrsv
+Label: True
+
+Input: abceghijlostxyz
+Label: True
+
+Input: deghjkmorstxz
+Label: True
+
+Input: wwcramo
+Label: False
+
+Input: ftqyfdjpombevppqt
+Label: False
+
+Input: abchoptxyz
+Label: True
+
+Input: bdegikoqrvwy
+Label: True
+
+Input: abcfgijlopqrwz
+Label: True
+
+Input: adeghloprsuvxz
+Label: True
+
+Input: cdegijkrstuvwyz
+Label: True
+
+Input: afghmopqtvwz
+Label: True
+
+Input: abdfghnopruvy
+Label: True
+
+Input: ofnxhznyigqfw
+Label: False
+
+Input: bghklnqvxy
+Label: True
+
+Input: dehijklopqux
+Label: True
+
+Input: mdulncrxj
+Label: False
+
+Input: cgijmnqsz
+Label: True
+
+Input: qrmxtvzvwxfyjmdwyqfla
+Label: False
+
+Input: cdfgjlmopvwy
+Label: True
+
+Input: abcdefgjklmnoqvxy
+Label: True
+
+Input: eghnopstv
+Label: True
+
+Input: ijmopqrtyz
+Label: True
+
+Input: sthprhkqfqgtqei
+Label: False
+
+Input: bgkopqtuwxz
+Label: True
+
+Input: ruapktebxmduh
+Label: False
+
+Input: cdefghjqrtvwxyz
+Label: True
+
+Input: xirstqaxazatl
+Label: False
+
+Input: vfqcaudwoiratbahca
+Label: False
+
+Input: abdfhiklnqrtwx
+Label: True
+
+Input: abcdhstuvy
+Label: True
+
+Input: fgziatfnez
+Label: False
+
+Input: acdgnpqrstuvwxz
+Label: True
+
+Input: abdfhjlmnoprstwxyz
+Label: True
+
+Input: nwxxisyrhtijapdfw
+Label: False
+
+Input: chnoptvwyz
+Label: True
+
+Input: twhqvdbxeade
+Label: False
+
+Input: befiklnopstxz
+Label: True
+
+Input: cdhlmnrswyz
+Label: True
+
+Input: acgilnprstuvx
+Label: True
+
+Input: smzfryamgjatpfih
+Label: False
+
+Input: bdfhjmnstvwz
+Label: True
+
+Input: hujminjdnoextxbb
+Label: False
+
+Input: deghijklmnpqty
+Label: True
+
+Input: abdefhimnstvxy
+Label: True
+
+Input: ogsajpuzfejylr
+Label: False
+
+Input: sbdrncqvnvptuh
+Label: False
+
+Input: sephhhwzy
+Label: False
+
+Input: cdefghijklmprstvyz
+Label: True
+
+Input: aefglnopstuwxy
+Label: True
+
+Input: bkinzxfcesg
+Label: False
+
+Input: ammmnxriqojxj
+Label: False
+
+Input: cejklrsvwxy
+Label: True
+
+Input: cehijrvwy
+Label: True
+
+Input: goqlwztnichkrbhi
+Label: False
+
+Input: uafpeqybi
+Label: False
+
+Input: qlofohlpkixjsljtvly
+Label: False
+
+Input: rjmebcbzvmqjo
+Label: False
+
+Input: rorrwnifpcpqqk
+Label: False
+
+Input: bcdfgkloruvwxy
+Label: True
+
+Input: abcdfghilmnpqux
+Label: True
+
+Input: jopeiiiaabzufy
+Label: False
+
+Input: bcdfhiklnqruwz
+Label: True
+
+Input: degijmopstuwx
+Label: True
+
+Input: abcdefhklopqswxy
+Label: True
+
+Input: abdfjkmnpuvwz
+Label: True
+
+Input: oleugsdlamyt
+Label: False
+
+Input: ghjsnfputebx
+Label: False
+
+Input: cfhjklmpqrux
+Label: True
+
+Input: tnopljnqjeo
+Label: False
+
+Input: hgkoxeapyo
+Label: False
+
+Input: wvpttgpdaxjugbq
+Label: False
+
+Input: cdefghjlqrtuvwx
+Label: True
+
+Input: bdgiklnprtuvy
+Label: True
+
+Input: acdelmnpvwyz
+Label: True
+
+Input: thehexz
+Label: False
+
+Input: kdiipptveukf
+Label: False
+
+Input: jwwwoukndafrap
+Label: False
+
+Input: cexswcgnyknle
+Label: False
+
+Input: bdefgijnoqvx
+Label: True
+
+Input: ipwgstbfocxpj
+Label: False
+
+Input: acflmoqrstuwz
+Label: True
+
+Input: bcdfgjkmopqswxz
+Label: True
+
+Input: goytymtlgyxdml
+Label: False
+
+Input: acefmnopqtux
+Label: True
+
+Input: acdhioprstuw
+Label: True
+
+Input: bfgimrsvz
+Label: True
+
+Input: zmsbsznwwkijlptdk
+Label: False
+
+Input: assdbgfkjfrq
+Label: False
+
+Input: acefhklprtuyz
+Label: True
+
+Input: acfghijlnpqsvz
+Label: True
+
+Input: bhsddlxaueymmmprfy
+Label: False
+
+Input: mbnhvenahrbvsvm
+Label: False
+
+Input: abdehkmoprstvy
+Label: True
+
+Input: bcdfhilmnprwyz
+Label: True
+
+Input: hhndsillhryk
+Label: False
+
+Input: cefgijkmqrsvxy
+Label: True
+
+Input: abcklmopqrtwxy
+Label: True
+
+Input: ontxcrpaktd
+Label: False
+
+Input: bcgijklnprsvwxyz
+Label: True
+
+Input: cefghjklmprtuwxyz
+Label: True
+
+Input: xucvtrmvthpwcehz
+Label: False
+
+Input: bcfgijklmnpst
+Label: True
+
+Input: jzkybmdynnv
+Label: False
+
+Input: vcaxvdbklpbex
+Label: False
+
+Input: sdusvjbgkzbkrpw
+Label: False
+
+Input: acdfghklmnpstuvyz
+Label: True
+
+Input: abjklmqtuwx
+Label: True
+
+Input: ebxfzhpxnl
+Label: False
+
+Input: aefijkmnotxyz
+Label: True
+
+Input: wogadnnyjiy
+Label: False
+
+Input: cdghikmnorsvwz
+Label: True
+
+Input: bdegjknoqstw
+Label: True
+
+Input: abdhijkmnoruwxyz
+Label: True
+
+Input: acdefghimnrsuvwz
+Label: True
+
+Input: cwtjultyegdngraevj
+Label: False
+
+Input: wdrvmthbbydmvd
+Label: False
+
+Input: gapganqjxl
+Label: False
+
+Input: acdefklmnqrstuvwz
+Label: True
+
+Input: mukgbygzvhfqwb
+Label: False
+
+Input: xycsdpededezx
+Label: False
+
+Input: dhclywssd
+Label: False
+
+Input: abcklopuvx
+Label: True
+
+Input: abeghjklnopqstx
+Label: True
+
+Input: mfdlycjib
+Label: False
+
+Input: efiklmnrtvwxy
+Label: True
+
+Input: hxfnwzgdpsz
+Label: False
+
+Input: ghkmrsuvxyz
+Label: True
+
+Input: oxdkfhvzqrt
+Label: False
+
+Input: ettsfbvzntspwgo
+Label: False
+
+Input: abcdeghijlmqrsuvyz
+Label: True
+
+Input: ptkapttptimyky
+Label: False
+
+Input: qmwkarwhviqs
+Label: False
+
+Input: cdfghikltvwyz
+Label: True
+
+Input: kgcglwrswlxxv
+Label: False
+
+Input: acfhikopqruxy
+Label: True
+
+Input: zbviamjeqftyeqz
+Label: False
+
+Input: bwxwjspslfoupvmwi
+Label: False
+
+Input: abfghjklopswxz
+Label: True
+
+Input: abceghknrsvwx
+Label: True
+
+Input: kubbzopxyqpaxkf
+Label: False
+
+Input: abcdehijmnoqtuyz
+Label: True
+
+Input: peneipzduvtih
+Label: False
+
+Input: nnrtrnwhzvuutwoo
+Label: False
+
+Input: tzcnvghyrjs
+Label: False
+
+Input: cefghjnptvxy
+Label: True
+
+Input: zdnsrjvrjzsweip
+Label: False
+
+Input: yhhttpawsupjhal
+Label: False
+
+Input: hilmnqrvwxz
+Label: True
+
+Input: zcnqlcodbulkhxv
+Label: False
+
+Input: xgfzglqsh
+Label: False
+
+Input: pokdjmpwy
+Label: False
+
+Input: eghikmopqstvwy
+Label: True
+
+Input: bcghikmpqrsvwy
+Label: True
+
+Input: kuxtgkrqoxodn
+Label: False
+
+Input: qxfczshyu
+Label: False
+
+Input: bfghjkmoqrsuwyz
+Label: True
+
+Input: abcdghijklmnqrstuvxyz
+Label: True
+
+Input: bcdefgijklnoqrtuvxy
+Label: True
+
+Input: jwampyynop
+Label: False
+
+Input: acijnopqsvwx
+Label: True
+
+Input: mwwkrknpljrozj
+Label: False
+
+Input: defikmnpstwxz
+Label: True
+
+Input: iiszwtnpraykrzh
+Label: False
+
+Input: yzbgtiemwo
+Label: False
+
+Input: lrrbekvqheooagw
+Label: False
+
+Input: ukojwonfrhbiilzt
+Label: False
+
+Input: wqvlcywveadrjyu
+Label: False
+
+Input: acegjkprstvx
+Label: True
+
+Input: aceiklmpu
+Label: True
+
+Input: gimtuvz
+Label: True
+
+Input: cdflostuvxyz
+Label: True
+
+Input: zkbghwkhivjbwag
+Label: False
+
+Input: ghjklpruxy
+Label: True
+
+Input: abdefhijlrstwz
+Label: True
+
+Input: abefghjktuvxyz
+Label: True
+
+Input: tvvbopsdqrwhdyaeb
+Label: False
+
+Input: abchilnopqrtvxy
+Label: True
+
+Input: jatmnhoielehn
+Label: False
+
+Input: qrvefgktfstikm
+Label: False
+
+Input: beghijkmrstwxy
+Label: True
+
+Input: abcdfnqtwz
+Label: True
+
+Input: ashwuiktcm
+Label: False
+
+Input: cfjkoqz
+Label: True
+
+Input: adjmnpuvy
+Label: True
+
+Input: dqsettujylt
+Label: False
+
+Input: sobduezklkfntlh
+Label: False
+
+Input: elqqqwlplx
+Label: False
+
+Input: bcdfhnoqruvw
+Label: True
+
+Input: chrzvksbefbafeib
+Label: False
+
+Input: bcefghilmnqrty
+Label: True
+
+Input: copmpzoqkeozr
+Label: False
+
+Input: dhijkmoprtwxyz
+Label: True
+
+Input: dawwnzqtcrzju
+Label: False
+
+Input: yhgcqzwixmdsb
+Label: False
+
+Input: bsoorioiamhpgm
+Label: False
+
+Input: bcdgjlnprtwz
+Label: True
+
+Input: befghlnsz
+Label: True
+
+Input: vqrkfpocnibihauv
+Label: False
+
+Input: axkprllhvaslzkxk
+Label: False
+
+Input: cwhtbnjoyxowy
+Label: False
+
+Input: ayisqzcxquwpjl
+Label: False
+
+Input: mtodsfjvffean
+Label: False
+
+Input: zyptzwxmkuxomitvy
+Label: False
+
+Input: acefgklmpqrtuvwyz
+Label: True
+
+Input: bdefjlmnprz
+Label: True
+
+Input: dfhijlmostuxyz
+Label: True
+
+Input: lesyqkhmffoucwaonrw
+Label: False
+
+Input: acdefgijlmpqtvxy
+Label: True
+
+Input: ecskqzgtnwap
+Label: False
+
+Input: acdghijmosux
+Label: True
+
+Input: abefghjmnpqstuvwxy
+Label: True
+
+Input: dfghiklopqrtz
+Label: True
+
+Input: herdilvpprvjis
+Label: False
+
+Input: bcjklopstwxy
+Label: True
+
+Input: tpqnhlxelmetl
+Label: False
+
+Input: ptrehrdpovd
+Label: False
+
+Input: qoujsayga
+Label: False
+
+Input: ythvvyadzjroxnl
+Label: False
+
+Input: acefgijmnoprswyz
+Label: True
+
+Input: spjhfuvrvjdil
+Label: False
+
+Input: deijmnouwxy
+Label: True
+
+Input: xeamtlacjsn
+Label: False
+
+Input: fohfwvgzoufhkauf
+Label: False
+
+Input: ggatvwiqrl
+Label: False
+
+Input: aqvhcrhysqkhm
+Label: False
+
+Input: bijpfyrazqs
+Label: False
+
+Input: cdefghilmpquvw
+Label: True
+
+Input: adfhiknoprtyz
+Label: True
+
+Input: nvuxbek
+Label: False
+
+Input: aceghijkopqsz
+Label: True
+
+Input: eeknmraxdgukof
+Label: False
+
+Input: cdegklnoqstvwy
+Label: True
+
+Input: acdefgijklnopqtuvyz
+Label: True
+
+Input: tgwcdsuomjru
+Label: False
+
+Input: abdghimnuz
+Label: True
+
+Input: acdeghjklnorsvyz
+Label: True
+
+Input: afjklnruvxz
+Label: True
+
+Input: abcdehilmopsuvwyz
+Label: True
+
+Input: akevrkrrrmjzxbkg
+Label: False
+
+Input: abdefghjlpqrwyz
+Label: True
+
+Input: degikmnqvwz
+Label: True
+
+Input: dfgklrvxz
+Label: True
+
+Input: cdefhiklnrtuy
+Label: True
+
+Input: bdefhklmpqrtu
+Label: True
+
+Input: hoejjcfxxyh
+Label: False
+
+Input: abdeflmorvz
+Label: True
+
+Input: bceglmopqr
+Label: True
+
+Input: abeiklmnorstuvxz
+Label: True
+
+Input: jkyrxjktjptk
+Label: False
+
+Input: dizzamil
+Label: False
+
+Input: lystsysikxxz
+Label: False
+
+Input: acdfijpqrstvwxy
+Label: True
+
+Input: fpvsgdmujzgwzd
+Label: False
+
+Input: abcfghikmnprsvz
+Label: True
+
+Input: nmrzkzxfvbhe
+Label: False
+
+Input: umkxpieqoaxq
+Label: False
+
+Input: bdeflmntvwz
+Label: True
+
+Input: arfjtmlnef
+Label: False
+
+Input: aegmopsuvwz
+Label: True
+
+Input: cfghlmoqsuxz
+Label: True
+
+Input: bcdegiklqrtx
+Label: True
+
+Input: uwlesxonyatiwe
+Label: False
+
+Input: vlgcczssezyqvts
+Label: False
+
+Input: acghjkmnqrtvwy
+Label: True
+
+Input: ydkxmqxmwepaqr
+Label: False
+
+Input: aefghilmpqsuz
+Label: True
+
+Input: cefgijklmnpruwxyz
+Label: True
+
+Input: ajlnosxyz
+Label: True
+
+Input: cfgjklnopqrstuv
+Label: True
+
+Input: acegjmnqrvxy
+Label: True
+
+Input: jbukauaqjfwzm
+Label: False
+
+Input: zfphlepjsuokyaqun
+Label: False
+
+Input: abdefklnqrstuvy
+Label: True
+
+Input: deijkmpquwx
+Label: True
+
+Input: abdfhjklmoprsy
+Label: True
+
+Input: bdefijlmnuwxyz
+Label: True
+
+Input: cefhmnoqruwxy
+Label: True
+
+Input: acdehjlmopqrsuvwx
+Label: True
+
+Input: acdfghjklprvwxy
+Label: True
+
+Input: prtasbbugdvc
+Label: False
+
+Input: befgiklmorstwxy
+Label: True
+
+Input: degikptuvwxy
+Label: True
+
+Input: abcgijkmrtuvwxyz
+Label: True
+
+Input: ivkzphjyodycgyuarn
+Label: False
+
+Input: ekmprsuw
+Label: True
+
+Input: cdfghjkloqst
+Label: True
+
+Input: bcdfgijkopqstuvwxyz
+Label: True
+
+Input: tvmtwruljplanm
+Label: False
+
+Input: ldimicmji
+Label: False
+
+Input: bcdegopqrsw
+Label: True
+
+Input: fksmkpmhvfkxaq
+Label: False
+
+Input: abghijkmqrst
+Label: True
+
+Input: jdzotgyc
+Label: False
+
+Input: pwhhwkbrthpuc
+Label: False
+
+Input: usqziswczwkhjkgics
+Label: False
+
+Input: abdfghikpqtxy
+Label: True
+
+Input: owmucesxmquptt
+Label: False
+
+Input: jknaqbtsseusd
+Label: False
+
+Input: crfxbwszhqymkohk
+Label: False
+
+Input: abdejlmpsvwxyz
+Label: True
+
+Input: bdefhklqrsuvwyz
+Label: True
+
+Input: zcsrccmmwf
+Label: False
+
+Input: yevqffgavimnynz
+Label: False
+
+Input: bfiklmqtw
+Label: True
+
+Input: plxobzqsxqgunn
+Label: False
+
+Input: xeberqihasekm
+Label: False
+
+Input: epesjinvcryacq
+Label: False
+
+Input: zkzlqnystpvggyw
+Label: False
+
+Input: udmipvrserctmwze
+Label: False
+
+Input: abntvyz
+Label: True
+
+Input: kjywtvsccgikewbq
+Label: False
+
+Input: htrljxcsxsvmnl
+Label: False
+
+Input: aeghjlmnortvxz
+Label: True
+
+Input: bcdefgijkqrwyz
+Label: True
+
+Input: bdeghnopqsvwx
+Label: True
+
+Input: efjlmopuvyz
+Label: True
+
+Input: bcghnopqrstxyz
+Label: True
+
+Input: qhnrgiyjzxblto
+Label: False
+
+Input: bdgntzanqbvqdoc
+Label: False
+
+Input: bemzmjtigiyvgu
+Label: False
+
+Input: cfgjlmnoqrtx
+Label: True
+
+Input: dhdywkrkpxyi
+Label: False
+
+Input: acdeijlmpqrtxyz
+Label: True
+
+Input: acfghjloptuwxy
+Label: True
+
+Input: xxfhmvuyjmwbvouddp
+Label: False
+
+Input: ozvdnzekdxdcveu
+Label: False
+
+Input: bbtnmedwzxaxrl
+Label: False
+
+Input: xcunwmzkw
+Label: False
+
+Input: ehhkbmapdpg
+Label: False
+
+Input: ptavrmuwlskyacydx
+Label: False
+
+Input: abdijklqruxy
+Label: True
+
+Input: adeilmqrsvwz
+Label: True
+
+Input: wgakykrekwoxhg
+Label: False
+
+Input: cansqjzacjkz
+Label: False
+
+Input: dfgrxz
+Label: True
+
+Input: abdfijklsuvwxz
+Label: True
+
+Input: otvejsmkevdbi
+Label: False
+
+Input: dghiklpwy
+Label: True
+
+Input: bcdgijlmopstv
+Label: True
+
+Input: bdghkmopu
+Label: True
+
+Input: cefimoqsuvy
+Label: True
+
+Input: dnakuoecffmuhs
+Label: False
+
+Input: mrkuqbsmzqozugaxs
+Label: False
+
+Input: cfghilmpqrsuvxy
+Label: True
+
+Input: adfijkmpqstuw
+Label: True
+
+Input: mtcdzjiqftkk
+Label: False
+
+Input: bceiklostvwz
+Label: True
+
+Input: phxckjvzbbylqd
+Label: False
+
+Input: adefghjklnruvwy
+Label: True
+
+Input: bchklnprtu
+Label: True
+
+Input: abdegijlmnopqrtuwz
+Label: True
+
+Input: coowbtgdukh
+Label: False
+
+Input: bcegijkmqsvwy
+Label: True
+
+Input: aehjlmnortuvwy
+Label: True
+
+Input: cjwbxzamlmcgwcy
+Label: False
+
+Input: cdghjlopqsuvxyz
+Label: True
+
+Input: ucyszmrijmoe
+Label: False
+
+Input: hboleynzmcyb
+Label: False
+
+Input: givvgezurnhkicg
+Label: False
+
+Input: kvutlgkjisnfrk
+Label: False
+
+Input: defghijknpstuvwz
+Label: True
+
+Input: uesjyvquzqrctnt
+Label: False
+
+Input: bcdinpquvy
+Label: True
+
+Input: abcefhilmnopsuvwxyz
+Label: True
+
+Input: cnemzomhllxu
+Label: False
+
+Input: tluljdaxkxrkiasui
+Label: False
+
+Input: acdfghjlmnstvxy
+Label: True
+
+Input: adegkmrsvwxz
+Label: True
+
+Input: navvhjyvm
+Label: False
+
+Input: nnzaoazxsrfgl
+Label: False
+
+Input: adehilmnquwy
+Label: True
+
+Input: aghlmouvwxyz
+Label: True
+
+Input: ceghijknopqr
+Label: True
+
+Input: abcefghimnpqrsvz
+Label: True
+
+Input: gwojeufubjerbyj
+Label: False
+
+Input: abdeghikn
+Label: True
+
+Input: dghjklmopqstvw
+Label: True
+
+Input: fiqcdtjzroykbhi
+Label: False
+
+Input: jkdaehpkvby
+Label: False
+
+Input: dgiklquyz
+Label: True
+
+Input: abcdegjklnopqvwxy
+Label: True
+
+Input: njtpktqgtwfyfw
+Label: False
+
+Input: eoywpstmimkqmona
+Label: False
+
+Input: oufnosaiu
+Label: False
+
+Input: cdefghjklmnuvwx
+Label: True
+
+Input: axnxqkxikyyeoeuxt
+Label: False
+
+Input: adfgikmovwyz
+Label: True
+
+Input: fhjlmprstu
+Label: True
+
+Input: mscvpjwwvhf
+Label: False
+
+Input: abefimprstxy
+Label: True
+
+Input: cdijkopqrstuxz
+Label: True
+
+Input: rqwnbzgqwyqsiz
+Label: False
+
+Input: bfgijlmpqrstuwxy
+Label: True
+
+Input: bdehijknoprstwx
+Label: True
+
+Input: acehlmnopquvy
+Label: True
+
+Input: ndceroqvjiosfgzwyu
+Label: False
+
+Input: abcdfhinrsuwz
+Label: True
+
+Input: bafdpkxtswymnw
+Label: False
+
+Input: abcdegiklswx
+Label: True
+
+Input: cehjlmotuw
+Label: True
+
+Input: scvxgwvdwamnuutdnhq
+Label: False
+
+Input: ahjknpqrtx
+Label: True
+
+Input: abcefijkmqty
+Label: True
+
+Input: beghnqsvy
+Label: True
+
+Input: acefgilopqrsvwx
+Label: True
+
+Input: zfzsxhyshdfz
+Label: False
+
+Input: abcdfilmnorstvwx
+Label: True
+
+Input: abchijmopqt
+Label: True
+
+Input: bcefkqrtuy
+Label: True
+
+Input: ujsikglbcqsbldbkbc
+Label: False
+
+Input: gjkoqtx
+Label: True
+
+Input: daldbfzjvdzprjnbd
+Label: False
+
+Input: xdzxozsdkjcney
+Label: False
+
+Input: ndrmzrpsskuej
+Label: False
+
+Input: clkvdzrkktwdj
+Label: False
+
+Input: mhfpigzylsb
+Label: False
+
+Input: yxdcuqgyistnn
+Label: False
+
+Input: bcdehijkmpqsvwy
+Label: True
+
+Input: oqpaaxvqgt
+Label: False
+
+Input: mapmphzdolfrtuuh
+Label: False
+
+Input: abfhjklopqrtvxyz
+Label: True
+
+Input: bcefgjkmprsuvxy
+Label: True
+
+Input: cdefghjklmnqrsw
+Label: True
+
+Input: gtjtklsockdaykng
+Label: False
+
+Input: abcdefghkmorsuxyz
+Label: True
+
+Input: fzqkynvvgrlx
+Label: False
+
+Input: afgijlprt
+Label: True
+
+Input: bcdhijmnoqrtuv
+Label: True
+
+Input: tybkivqohn
+Label: False
+
+Input: adeijkmnoqtxy
+Label: True
+
+Input: tmhmsjzgqv
+Label: False
+
+Input: uftmnifrbxgz
+Label: False
+
+Input: abcfijklmnpqtuwxy
+Label: True
+
+Input: aefghimnoswyz
+Label: True
+
+Input: fgklmtuvxyz
+Label: True
+
+Input: acdfgklmpstuyz
+Label: True
+
+Input: vumpcfpprkrg
+Label: False
+
+Input: adghlnoquvwxyz
+Label: True
+
+Input: bcdefghijlnoqrstuvxz
+Label: True
+
+Input: lqzdawxvduze
+Label: False
+
+Input: bcdehjlmpqruw
+Label: True
+
+Input: bcdhjklouvwxyz
+Label: True
+
+Input: abdefghjoqrsxy
+Label: True
+
+Input: ceghiknoqrswy
+Label: True
+
+Input: iopqrtyz
+Label: True
+
+Input: acfhijlnrsv
+Label: True
+
+Input: achilnotvy
+Label: True
+
+Input: abcghjklnuvwx
+Label: True
+
+Input: regxxzltsbdx
+Label: False
+
+Input: zaokuqgjigbea
+Label: False
+
+Input: rtpqixdebk
+Label: False
+
+Input: aceghjkmprsuw
+Label: True
+
+Input: acefghijlnopvxz
+Label: True
+
+Input: rtfswbopjsxpj
+Label: False
+
+Input: rboktczovmzfp
+Label: False
+
+Input: qtddktykdvo
+Label: False
+
+Input: bfhjklmv
+Label: True
+
+Input: cehijlpqrsu
+Label: True
+
+Input: dzylfjvjftwxpv
+Label: False
+
+Input: abcfghklmnpqstvz
+Label: True
+
+Input: sxdnstczlognlp
+Label: False
+
+Input: cscnnrcytzoclds
+Label: False
+
+Input: zfytqpxxxz
+Label: False
+
+Input: cdfhilmopstuvz
+Label: True
+
+Input: rlxxexouepsizu
+Label: False
+
+Input: abeghjlorxy
+Label: True
+
+Input: lrvspekhshbbgrwm
+Label: False
+
+Input: mdqhmdbsmqfbx
+Label: False
+
+Input: bfghijopquvwx
+Label: True
+
+Input: kzcltqpsbhr
+Label: False
+
+Input: dydqzaxjdsu
+Label: False
+
+Input: egijknruz
+Label: True
+
+Input: jytdeqbzxf
+Label: False
+
+Input: zxvymhfkdyka
+Label: False
+
+Input: adefhltuvx
+Label: True
+
+Input: uaaxojzpo
+Label: False
+
+Input: lqwwppzot
+Label: False
+
+Input: gmgmmgqlxfvy
+Label: False
+
+Input: ghryndykvrhmo
+Label: False
+
+Input: fawdrlwhabmvp
+Label: False
+
+Input: efamznyehxganye
+Label: False
+
+Input: cefkoqrtuvw
+Label: True
+
+Input: acdefghijnopqrvxz
+Label: True
+
+Input: lpvmarxdf
+Label: False
+
+Input: cgjmnqstuwxz
+Label: True
+
+Input: akhsmemv
+Label: False
+
+Input: wmwgubgngmdnwzlrr
+Label: False
+
+Input: wsvglhvenuu
+Label: False
+
+Input: dokemgnibwmwa
+Label: False
+
+Input: msquseyymjohf
+Label: False
+
+Input: befgklnopqtuvw
+Label: True
+
+Input: bdfhjkmopqxy
+Label: True
+
+Input: uvqhkkwoosap
+Label: False
+
+Input: vukqohsshxf
+Label: False
+
+Input: bcehijmnoqrstvwz
+Label: True
+
+Input: afthsbrmi
+Label: False
+
+Input: bhjkpqrstuwxyz
+Label: True
+
+Input: cdhimoqstwxz
+Label: True
+
+Input: tlpyehpsxyyoftkc
+Label: False
+
+Input: ebvsiwanpkscl
+Label: False
+
+Input: abehjkloqruvwxz
+Label: True
+
+Input: rhdazeonuu
+Label: False
+
+Input: mwnhiantkxbnui
+Label: False
+
+Input: iazlrav
+Label: False
+
+Input: adefhknotvwx
+Label: True
+
+Input: aevfjoobnrcmvszzi
+Label: False
+
+Input: cocogwobjdw
+Label: False
+
+Input: abcdeklorwxy
+Label: True
+
+Input: ceghijlmoqsxyz
+Label: True
+
+Input: wysxbzekjrd
+Label: False
+
+Input: ymwwfgimpwas
+Label: False
+
+Input: adhkmqsvw
+Label: True
+
+Input: aqpsmucoiemq
+Label: False
+
+Input: deghimnosuwy
+Label: True
+
+Input: abefgijklorsuvwxy
+Label: True
+
+Input: vnbwtdelcckxpb
+Label: False
+
+Input: xhcpvujsv
+Label: False
+
+Input: bcdegiklmnopqrstuvx
+Label: True
+
+Input: camzpskswzak
+Label: False
+
+Input: abcdefghijlmqrtuyz
+Label: True
+
+Input: zdmzrcec
+Label: False
+
+Input: abcdgjlnoprswxy
+Label: True
+
+Input: acdefijklmnpswxz
+Label: True
+
+Input: abcefgimnopstvxyz
+Label: True
+
+Input: abefgptuwy
+Label: True
+
+Input: kyxkjplqamse
+Label: False
+
+Input: acdfjrtuvwy
+Label: True
+
+Input: acdfgjkmnpqvwxyz
+Label: True
+
+Input: yhtaubqbxtcmlrae
+Label: False
+
+Input: acefhijmoqrtvwy
+Label: True
+
+Input: aftynczvoiqur
+Label: False
+
+Input: behimpqstvwx
+Label: True
+
+Input: xrqwderxtsubgohdx
+Label: False
+
+Input: acefghijklmnoqsyz
+Label: True
+
+Input: bfghnuwx
+Label: True
+
+Input: abcdfijklnqrsuvxz
+Label: True
+
+Input: dldnwfyjtc
+Label: False
+
+Input: agjlmpstuyz
+Label: True
+
+Input: qekvvwkrwoaubaxtj
+Label: False
+
+Input: abdeilmpstuw
+Label: True
+
+Input: acdhijnopqrsuvwxz
+Label: True
+
+Input: uqltcqftblnti
+Label: False
+
+Input: acdefjmnprsuxz
+Label: True
+
+Input: viljnakvrymduu
+Label: False
+
+Input: mviwibaxofspnpma
+Label: False
+
+Input: jtagqwiw
+Label: False
+
+Input: abdeghijkmnopstwyz
+Label: True
+
+Input: acdehjkmoruy
+Label: True
+
+Input: qmlotaniomyx
+Label: False
+
+Input: snazfdnhovyw
+Label: False
+
+Input: gkqvwyz
+Label: True
+
+Input: zbwvmvgdvcww
+Label: False
+
+Input: bcegijkmruxz
+Label: True
+
+Input: bdegijkmnoquvwxy
+Label: True
+
+Input: hbfmjgedoq
+Label: False
+
+Input: acdfgijklmoprsuwxy
+Label: True
+
+Input: cfhijklqrstvw
+Label: True
+
+Input: dhjkprstuv
+Label: True
+
+Input: bjbkvkxjbov
+Label: False
+
+Input: tntupzgdp
+Label: False
+
+Input: qwoqpmcjsl
+Label: False
+
+Input: ofnjghgyjdsrmyaiew
+Label: False
+
+Input: mgcvslnyihdajaf
+Label: False
+
+Input: quyacfjsbzoql
+Label: False
+
+Input: yiioekfopf
+Label: False
+
+Input: wlrzjaybbgjx
+Label: False
+
+Input: ttnttlsiuh
+Label: False
+
+Input: cfgjopsuwxy
+Label: True
+
+Input: bcejqutnvvmyhzy
+Label: False
+
+Input: pnzoabt
+Label: False
+
+Input: vqclhgbgfemvnno
+Label: False
+
+Input: abefginpqrvy
+Label: True
+
+Input: acdefhijkmotvwy
+Label: True
+
+Input: bcdfghiklmnoqruyz
+Label: True
+
+Input: gzucrgpvgvspyt
+Label: False
+
+Input: idsuiduwxmpfv
+Label: False
+
+Input: bcefjlrsvwz
+Label: True
+
+Input: cfhjklmovxy
+Label: True
+
+Input: aepkddpxrforcb
+Label: False
+
+Input: adeghijnoprstuvxy
+Label: True
+
+Input: zybltymhotmgh
+Label: False
+
+Input: ixsrdmwrpolij
+Label: False
+
+Input: wcetlteounxvoh
+Label: False
+
+Input: dkhoiopalwcsmfz
+Label: False
+
+Input: ceghnoprsty
+Label: True
+
+Input: bcdghkmnqtvxz
+Label: True
+
+Input: abcdegklnowxy
+Label: True
+
+Input: bdefgkmnprvwyz
+Label: True
+
+Input: cdfijorw
+Label: True
+
+Input: xlpguemkbrwg
+Label: False
+
+Input: tknmly
+Label: False
+
+Input: lhmtrwxngvpobsvksso
+Label: False
+
+Input: abcgklnrsvz
+Label: True
+
+Input: acdefjklmqvyz
+Label: True
+
+Input: abcfgijmnoqrtvyz
+Label: True
+
+Input: dnzehoxeguqyiz
+Label: False
+
+Input: befginoqrstuxyz
+Label: True
+
+Input: wlsgrnggkp
+Label: False
+
