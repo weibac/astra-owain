@@ -26,16 +26,23 @@ def unwrap_reply(response):
     return response['choices'][0]['message']['content']
 
 def main():
-    context = init_context()
-    sequence = p.make_alphabet_mixed_sequence()
-    true_answer = sequence[-1][1]
-    context_add_prompt(context, sequence) 
-    gpt_answer = unwrap_reply(call_api_engine(context))
+    n_correct = 0
+    for i in range(100):
+        context = init_context()
+        sequence = p.make_alphabet_mixed_sequence()
+        true_answer = sequence[-1][1]
+        context_add_prompt(context, sequence) 
+        gpt_answer = unwrap_reply(call_api_engine(context))
 
-    print(context)
-    print("True answer:", true_answer)
-    print("GPT answer:", gpt_answer)
-    print("Correct?", true_answer == gpt_answer)
+        correct = gpt_answer == true_answer
+        if correct:
+            n_correct += 1
+
+        print("True answer:", true_answer)
+        print("GPT answer:", gpt_answer)
+        print("Correct?", correct)
+
+    print("Accuracy:", n_correct / 100)
 
 if __name__ == "__main__":
     main()
