@@ -30,7 +30,7 @@ def main():
     n_total = c.N_TEST_CALLS
     for i in range(n_total):
         context = init_context()
-        sequence = p.make_alphabet_words_mixed_sequence()
+        sequence = p.make_variably_sized_words_sequences()
         str_to_classify = sequence[-1][0]
         true_label = sequence[-1][1]
         context_add_prompt(context, sequence) 
@@ -46,7 +46,7 @@ def main():
             context_append(context, "assistant", gpt_label)
             context_append(context, "user", p.correct_prompt)
             gpt_explanation = unwrap_reply(call_api_engine(context))
-            print("GPT explains:", gpt_explanation, "\n")
+            print("GPT explains:", gpt_explanation, "\n\n")
 
     print("Accuracy:", n_correct / n_total)
 

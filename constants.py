@@ -15,6 +15,8 @@ DIGITS_N = 10
 ALPHABET_WORDS_P = 0.0010
 ALPHABET_WORDS_N = 10
 
+VARIABLE_WORDS_M = 5
+VARIABLE_WORDS_N = 10
 
 # Secrets
 # a .env file with the API key must be in the same directory as this file

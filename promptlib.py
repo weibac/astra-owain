@@ -120,6 +120,31 @@ def make_alphabet_words_mixed_sequence(n=c.ALPHABET_WORDS_N):
 # Some of them are a lot longer than others. Those have the True label.
 ###
 
+def make_variably_sized_words_sequences(n=c.VARIABLE_WORDS_N):
+    with open("data/words_10000.txt") as f:
+        word_list = [word.strip("\n") for word in f.readlines()]
+    ls_short = list()
+    ls_long = list()
+
+    for a in range(n):
+
+        out_short, n_words = make_alphabet_words_sentence(word_list)
+        out_short = out_short.split(" ")
+        r.shuffle(out_short)
+        out_short = " ".join(out_short)
+        out_long = str()
+        for _ in range(n_words * c.VARIABLE_WORDS_M):
+            out_long += word_list.pop(r.choice(range(len(word_list)))) + " "
+        out_long = out_long[:-1]
+
+        ls_long.append([out_long, "True"])
+        ls_short.append([out_short, "False"])
+
+    ls_out = (ls_long + ls_short)
+    r.shuffle(ls_out)
+
+    return ls_out
+
 ###
 # TODO
 # Spanish-gender task:
