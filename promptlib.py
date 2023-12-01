@@ -60,7 +60,7 @@ def make_digits_mixed_sequence(n=c.DIGITS_N):
         out_ordered = make_digits_word()
         out_random = str()
         for _ in range(len(out_ordered)):
-            out_random += r.choice(string.digits)
+            out_random += string.digits.pop(r.choice(range(len(string.digits)))) + " "
 
         ls_ordered.append([out_ordered, "True"])
         ls_random.append([out_random, "False"])
@@ -72,6 +72,7 @@ def make_digits_mixed_sequence(n=c.DIGITS_N):
 
 
 ###
+# DEPRECATED
 # Alphabet-words task:
 # Over the space of random sequences of lowercase english words,
 # Some of them are ordered alphabetically. Those have the True label.
@@ -82,11 +83,13 @@ def make_digits_mixed_sequence(n=c.DIGITS_N):
 
 def make_alphabet_words_sentence(word_list, p=c.ALPHABET_WORDS_P):
     out = str()
+    n_words = 0
     for w in word_list:
         if r.random() < p:
             out += w + " "
+            n_words += 1
     out = out[:-1]
-    return out
+    return out, n_words
 
 def make_alphabet_words_mixed_sequence(n=c.ALPHABET_WORDS_N):
     with open("data/words_10000.txt") as f:
@@ -96,10 +99,10 @@ def make_alphabet_words_mixed_sequence(n=c.ALPHABET_WORDS_N):
 
     for a in range(n):
 
-        out_ordered = make_alphabet_words_sentence(word_list)
+        out_ordered, n_words = make_alphabet_words_sentence(word_list)
         out_random = str()
-        for _ in range(len(out_ordered)):
-            out_random += r.choice(word_list) + " "
+        for _ in range(n_words):
+            out_random += word_list.pop(r.choice(range(len(word_list)))) + " "
         out_random = out_random[:-1]
 
         ls_ordered.append([out_ordered, "True"])
@@ -112,6 +115,13 @@ def make_alphabet_words_mixed_sequence(n=c.ALPHABET_WORDS_N):
 
 
 ###
+# Variable-length word sequence task:
+# Over the space of random sequences of lowercase english words,
+# Some of them are a lot longer than others. Those have the True label.
+###
+
+###
+# TODO
 # Spanish-gender task:
 # Nouns in Spanish are grammatically either masculine or feminine.
 # Over the space of random sequences of spanish words nouns,
