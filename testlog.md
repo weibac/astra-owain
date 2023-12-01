@@ -1,1 +1,0 @@
-- Alphabet prompt with GPT4: 0.99 accuracy on 100 tests.
