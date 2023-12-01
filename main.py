@@ -31,20 +31,22 @@ def main():
     for i in range(n_total):
         context = init_context()
         sequence = p.make_alphabet_words_mixed_sequence()
-        true_answer = sequence[-1][1]
+        str_to_classify = sequence[-1][0]
+        true_label = sequence[-1][1]
         context_add_prompt(context, sequence) 
-        gpt_answer = unwrap_reply(call_api_engine(context))
+        gpt_label = unwrap_reply(call_api_engine(context))
 
-        correct = gpt_answer == true_answer
-        print("True answer:", true_answer)
-        print("GPT answer:", gpt_answer)
+        correct = gpt_label == true_label
+        print("Input:", str_to_classify)
+        print("True label:", true_label)
+        print("GPT label:", gpt_label)
         print("Correct?", correct, "\n")
         if correct:
             n_correct += 1
-            context_append(context, "assistant", gpt_answer)
+            context_append(context, "assistant", gpt_label)
             context_append(context, "user", p.correct_prompt)
-            gpt_answer = unwrap_reply(call_api_engine(context))
-            print("GPT says:", gpt_answer, "\n")
+            gpt_explanation = unwrap_reply(call_api_engine(context))
+            print("GPT explains:", gpt_explanation, "\n")
 
     print("Accuracy:", n_correct / n_total)
 
